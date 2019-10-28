@@ -1,0 +1,41 @@
+From,To,Weight
+Liam,Ophelia,2
+Liam ,Ted,1
+Liam,Helena,2
+Liam,Eleanor,3
+Liam ,Cyrus,1
+Liam,Simon ,3
+Liam ,Jasper,1
+Helena,Liam,2
+Helena,Ted,1
+Helena,Simon ,2
+Helena,Cyrus,2
+Helena,Eleanor,2
+Helena,Jasper,2
+Helena,Ophelia,1
+Simon,Ted,3
+Simon,Liam,3
+Simon,Helena,2
+Simon,Eleanor,3
+Simon,Cyrus,1
+Eleanor,Jasper,2
+Eleanor,Liam,3
+Eleanor,Helena,2
+Eleanor,Simon ,3
+Eleanor,Cyrus,1
+Cyrus ,Simon ,1
+Cyrus ,Helena,2
+Cyrus ,Liam,1
+Cyrus ,Eleanor,1
+Jasper,Liam,1
+Jasper,Helena,2
+Jasper,Ted,2
+Jasper,Eleanor,2
+Ted,Ophelia,3
+Ted,Simon ,3
+Ted,Helena,1
+Ted,Jasper,2
+Ted,Liam,1
+Ophelia,Liam,2
+Ophelia,Ted,3
+Ophelia,Helena,1
